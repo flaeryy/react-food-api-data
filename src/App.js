@@ -27,7 +27,7 @@ function App() {
 const Nav = styled.div`
   padding: 5rem;
   display: flex;
-  justify-content: centar;
+  justify-content: center;
   align-items: center;
   svg {
     font-size: 2rem;

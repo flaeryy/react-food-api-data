@@ -25,7 +25,7 @@ function App() {
 }
 
 const Nav = styled.div`
-  padding: 4rem;
+  padding: 5rem;
   display: flex;
   justify-content: centar;
   align-items: center;
